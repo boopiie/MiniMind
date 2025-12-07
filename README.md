@@ -32,5 +32,5 @@ Ce projet illustre :
 ### Étapes
 1. Cloner le dépôt :
    ```bash
-   git clone [lien_du_dépôt]
+   git clone [https://github.com/boopiie/MiniMind.git]
    cd MiniMind
