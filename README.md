@@ -16,8 +16,8 @@ Ce projet illustre :
 ## 🛠 Technologies
 | Outil/Librairie | Version/Rôle |
 |-----------------|-------------|
-| **Python**      | 3.10+        |
-| **TensorFlow**  | 2.x          |
+| **Python**      | 3.9.6+        |
+| **TensorFlow**  | 2.13          |
 | **NumPy**       | 1.24+        |
 | **OpenCV**      | 4.x          |
 
@@ -26,11 +26,11 @@ Ce projet illustre :
 ## Installation & Exécution
 
 ### Prérequis
-- Python 3.10 ou supérieur.
+- Python 3.9.6.
 - Un environnement virtuel recommandé (`venv` ou `conda`).
 
 ### Étapes
 1. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/boopiie/MiniMind.git]
+   git clone https://github.com/boopiie/MiniMind.git
    cd MiniMind
